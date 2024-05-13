@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="PreDiplom/AddEd.axaml" value="PreDiplom/PreDiplom.csproj" />
+        <entry key="PreDiplom/App.axaml" value="PreDiplom/PreDiplom.csproj" />
+        <entry key="PreDiplom/MainWindow.axaml" value="PreDiplom/PreDiplom.csproj" />
+        <entry key="PreDiplom/Table.axaml" value="PreDiplom/PreDiplom.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
